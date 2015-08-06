@@ -9,7 +9,7 @@
 !.gitignore
 
 # Don't ignore some of my files
-datosPreliminares--clases_abarcadas.txt
+!datosPreliminares--clases_abarcadas.txt
 
 
 
