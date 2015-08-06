@@ -1,3 +1,22 @@
+# Ignore everything
+*
+
+# Don't ignore directories, so we can recurse into them
+!*/
+!*\
+
+# Don't ignore .gitignore
+!.gitignore
+
+# Don't ignore some of my files
+datosPreliminares--clases_abarcadas.txt
+
+
+
+
+
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
