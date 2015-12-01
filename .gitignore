@@ -1,22 +1,9 @@
-# Ignore everything
-*
-
-# Don't ignore directories, so we can recurse into them
-!*/
-!*\
-
-# Don't ignore .gitignore
-!.gitignore
-
-# Don't ignore some of my files
-#!datosPreliminares--clases_abarcadas.txt
-!datos finales
-!datos preliminares
+# My Ignores
+print_clases_of_a_csv_dataset.py
 
 
 
-
-
+## ------------------------------------------------------- ##
 
 
 
